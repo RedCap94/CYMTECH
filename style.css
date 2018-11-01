@@ -1,0 +1,139 @@
+#brand{
+    font-weight: bold;
+}
+#b1{
+    color:yellowgreen;
+}
+#b2{
+    color:orangered;
+}
+#b2:hover,#b1:hover{
+    color: white;
+}
+.bgimg{
+    background-image: url(images/homeBg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 110vh;
+    text-align: center;
+}
+.homeBtn{
+    margin: auto 0;
+    color: white;
+}
+.homeBtn a{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: yellowgreen;
+}
+.homeBtn a:hover{
+    background-color: yellowgreen;
+    color: orangered;
+}
+h1 #b2{
+    font-weight: bold;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+}
+#card{
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+#card img{
+    height: 300px;
+    width: 100%;
+}
+
+form {
+    border: 3px solid #f0f0f0;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+button {
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: yellowgreen;
+}
+
+.container {
+    padding: 16px;
+}
+
+.fgPw {
+    float: right;
+}
+.loginHead{
+    margin-bottom: 20px;
+}
+
+.toSignUP{
+    text-align: center;
+}
+.container form{
+    background-color: powderblue;
+    border-radius: 10px;
+}
+
+textarea.form-control{
+    height:100px;
+}
+.conForm{
+    padding: 10px;
+    font-weight: bold;
+}
+.conImg{
+    margin: 0 auto;
+    margin: auto 0;
+}
+.conImg img{
+    width: inherit;
+    height: inherit;
+    border: powderblue 3px solid;
+    border-radius: 10px;
+}
+small{
+    font-size: 15px;
+    font-weight: bold;
+    color: gray;
+}
+.thumbnail{
+    text-align: center;
+    border-radius: 10px;
+}
+.thumbnail img{
+    border-radius: 10px;
+}
+.vdo{
+    text-align: center;
+    margin-top: 25px;
+}
+h4{
+    color: forestgreen;
+}
+#headHome{
+    color: orangered;
+}
